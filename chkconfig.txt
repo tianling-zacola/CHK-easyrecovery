@@ -1,0 +1,13 @@
+#示例格式
+type=.zac
+content=\x7F\x45\x4C\x46\x66\x75\x63\x6B
+
+type=.swf
+content=CWS
+#zip内容分析文件
+
+type=.xdc
+zip=/manifest.toml
+
+type=.egg
+zip=/EGG_INFO
